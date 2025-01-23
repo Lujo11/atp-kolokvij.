@@ -13,4 +13,5 @@ Dalí je u povijesti zapamćen po svojim snažnim i bizarnim slikama te kao jeda
 * Bojanje
 * Crtanje<br>
 | Naziv             | Verzija | Autor            |<br>
-| Salvador Dali     | 1.0     | Luka Kevrić      |
+| Salvador Dali     | 1.0     | Luka Kevrić      |<br>
+[Link Licensa](https://github.com/Lujo11/atp-kolokvij./blob/main/LICENSE.md)
